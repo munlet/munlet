@@ -21,6 +21,8 @@ Mainly active on ID server (Above Harbor).<br>
 Usually using the name <b>Munlet</b>.<br>
 Not very active on Regiment, but still around.<br>
 Feel free to talk with me ✦
+
+a cosplayer btw.
 </p>
 
 <br>
