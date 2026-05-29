@@ -34,7 +34,7 @@ a cosplayer btw.
 <div align="left"> <img src="https://img.shields.io/badge/✦_N30N-ff00ff?style=for-the-badge&labelColor=0d1117"/> <br> 
   <img src="https://img.shields.io/badge/status:online-00ffff?style=for-the-badge&labelColor=ffffff"/> 
   <img src="https://img.shields.io/badge/server:ID/safe-185eca?style=for-the-badge&labelColor=ffffff"/> 
-  <img src="https://img.shields.io/badge/c+h_friends only-cc99ff?style=for-the-badge&labelColor=0d1117"/> 
+  <img src="https://img.shields.io/badge/c+h-cc99ff?style=for-the-badge&labelColor=0d1117"/> 
 </div>  
 
 ![Profile Visitors](https://komarev.com/ghpvc/?username=munletsesat&label=PROFILE+VISITORS&color=00d1ff&style=for-the-badge)
