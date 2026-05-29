@@ -26,7 +26,7 @@ Feel free to talk with me ✦<br>
 
 a cosplayer btw.
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31w43t7ikbu34zjgreq7fsskknri&cover_image=true&theme=natemoo-re&show_offline=false&background_color=004cff&interchange=false&profanity=false&hide_remaster=false&bar_color=ee00ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31w43t7ikbu34zjgreq7fsskknri&cover_image=true&theme=novatorem&show_offline=true&background_color=001194&interchange=false&profanity=false&hide_remaster=true&bar_color=c200a8&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
   </a>
 </p>
 <br>
