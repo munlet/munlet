@@ -15,7 +15,7 @@
 
 <p><i>id / eng | 18+ | ENTJ</i></p>
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=ff00ff&center=false&vCenter=true&pause=1000&speed=40&lines=i+wish+we+could+go+to+the+moon+..;maybe+in+another+life."/>
+<img src="https://readme-typing-svg.herokuapp.com/?color=ff00ff&center=false&vCenter=true&pause=1000&speed=40&lines=i+wish+we+could+go+to+the+moon;maybe+in+another+life;i+wish+you+luck+at+battle."/>
 
 <br>
 
