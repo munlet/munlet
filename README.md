@@ -15,8 +15,10 @@
 
 <p><i>id / eng | 18+ | ENTJ</i></p>
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=ff00ff&center=false&vCenter=true&pause=1000&speed=40&lines=i+wish+we+could+go+to+the+moon;maybe+in+another+life;i+wish+you+luck+at+battle.;i+wish+we+could+go+to+the+moon;maybe+in+another+life;i+wish+we+could+go+to+the+moon;maybe+in+another+life;why+are+you+still+here..?;...;taste+?..;is+that+really+you+?."/>
-
+<img src="https://readme-typing-svg.herokuapp.com/?color=ff00ff&center=false&vCenter=true&pause=1000&speed=40&lines=i+wish+we+could+go+to+the+moon;maybe+in+another+life;i+wish+you+luck+at+battle."/>
+  
+<!--;i+wish+we+could+go+to+the+moon;maybe+in+another+life;i+wish+we+could+go+to+the+moon;maybe+in+another+life;why+are+you+still+here..?;...;taste+?..;is+that+really+you+?."/>
+-->
 <br>
 
 Mainly active on ID server (Above Harbor).<br>
@@ -42,7 +44,3 @@ a cosplayer btw.
 
 <br>
 
-<!-- Footer Glow -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,50:0fffc1,100:ff00ff&height=120&section=footer"/>
-
-</div>
