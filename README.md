@@ -21,7 +21,7 @@
 -->
 <br>
 
-Mainly active on ID server (Above Harbor).<br>
+Mainly active on safe server harbor.<br>
 Usually using the name <b>Munlet</b>.<br>
 Not very active on Regiment, but still around.<br>
 Feel free to talk with me ✦<br>
