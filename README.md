@@ -52,9 +52,12 @@ a cosplayer btw.
 
 </p>
 <table>
- <tr>
-    <td>Cell C</td>
-    <td>Cell D</td>
-    <td>cd</td>
+  <tr>
+    <td align="center" width="440">
+      <img src="assets/munlet.gif" width="260">
+    </td>
+ <td  align="center" width="440">
+      <img src="assets/mango.gif" width="260">
+</td>
   </tr>
 </table>
