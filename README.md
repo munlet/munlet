@@ -42,5 +42,19 @@ a cosplayer btw.
 ![Profile Visitors](https://komarev.com/ghpvc/?username=munletsesat&label=PROFILE+VISITORS&color=00d1ff&style=for-the-badge)
 ![Last Updated](https://img.shields.io/badge/LAST_UPDATED-today-bb00ff?style=for-the-badge&labelColor=0d0c60&color=bb00ff)
 
-<br>
+<br><br>
+</table>
 
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=%5B+INITIALIZING+OC+DATABASE+%5D;%E2%9C%A6+INTRODUCTIONS+OF+MY+OC+%E2%9C%A6;ACCESS+GRANTED...">
+
+</p>
+<table>
+ <tr>
+    <td>Cell C</td>
+    <td>Cell D</td>
+    <td>cd</td>
+  </tr>
+</table>
